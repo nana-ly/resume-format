@@ -1,54 +1,52 @@
 {
-  "name": "WXX",
-  "basic_info": "性别：女/男 | 年龄：xx",
-  "contact": "手机号：1xxxxxxxxx | 邮箱：xxxxxxxxxx@qq.com",
-  "job_intent": "求职意向：前端开发工程师",
+  "name": "XXX",
+  "basic_info": "性别：男/女 | 年龄：xx",
+  "contact": "手机号：1xx-xxxx-xxxx | 邮箱：xxx@xxx.com",
+  "job_intent": "求职意向：XX岗位",
   "sections": [
     {
       "title": "教育经历",
       "items": [
-        { "type": "entry", "left": "XX大学  XXXXXXXX学院", "center": "", "right": "2023.09-2027.06" },
-        { "type": "body", "text": "信息安全 本科（专业前20％）" },
-        { "type": "body", "text": "主修课程：数据结构、Java程序设计、数据库系统、操作系统、编译原理、计算机网络、密码学" },
-        { "type": "body", "text": "荣誉奖项：校优秀三等奖学金、三好学生" },
-        { "type": "body", "text": "资格证书：CET4、CET6（500+）、软考中级-信息安全工程师、普通话二乙" }
+        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "202X.09-202X.06" },
+        { "type": "body", "text": "XX专业  本科（专业排名 / 绩点）" },
+        { "type": "body", "text": "主修课程：课程1、课程2、课程3……" },
+        { "type": "body", "text": "荣誉奖项：奖项1、奖项2" },
+        { "type": "body", "text": "资格证书：证书1、证书2" }
       ]
     },
     {
       "title": "实习经历",
       "items": [
-        { "type": "entry", "left": "XXXXXXXXXXX", "center": "驻场运维实习生", "right": "2025.10-2025.12" },
-        { "type": "label_body", "label": "核心工作：", "text": "负责现场设备值守与运行状态监控，及时排查设备异常并记录上报；协助团队完成安全巡检、日志整理与归档工作，配合执行安全防护相关基础操作；对接现场相关人员，反馈值守过程中的问题，推进问题解决。" }
+        { "type": "entry", "left": "公司名称", "center": "岗位名称", "right": "202X.0X-202X.0X" },
+        { "type": "label_body", "label": "核心工作：", "text": "描述你在实习中的核心职责与产出……" }
       ]
     },
     {
       "title": "项目经历",
       "items": [
-        { "type": "entry", "left": "身份证 OCR 识别安卓应用（Android）", "center": "项目负责人", "right": "2025.12-2026.01" },
-        { "type": "label_body", "label": "项目背景：", "text": "为解决传统身份证信息手工录入效率低、易出错的问题，开发一款基于Android平台的身份证证照识别应用，用户通过拍照或相册上传身份证图片，自动调用腾讯云OCR服务完成信息提取与结构化展示。" },
-        { "type": "label_body", "label": "技术栈：", "text": "Android、Java、XML、OkHttp、Gson、腾讯云 OCR、API V3签名、权限适配" },
-        { "type": "label_body", "label": "代码仓库：", "text": "https://gitee.com/liyrio/android.git" },
+        { "type": "entry", "left": "项目名称（技术方向）", "center": "项目角色", "right": "202X.0X-202X.0X" },
+        { "type": "label_body", "label": "项目背景：", "text": "简述项目背景与要解决的问题……" },
+        { "type": "label_body", "label": "技术栈：", "text": "技术1、技术2、技术3……" },
+        { "type": "label_body", "label": "代码仓库：", "text": "（可选）仓库地址" },
         { "type": "label_body", "label": "主要职责：", "text": "" },
-        { "type": "bullet", "text": "独立完成项目从零搭建、UI设计、全流程开发与测试。" },
-        { "type": "bullet", "text": "实现腾讯云TC3-HMAC-SHA256 V3签名算法，保证API请求安全。" },
-        { "type": "bullet", "text": "开发图像预处理流程：图片自动压缩至1024×1024以内，JPEG质量85%，Base64数据量平均从800KB降至150KB，降低网络传输负载约81%。" },
+        { "type": "bullet", "text": "职责 / 贡献要点1" },
+        { "type": "bullet", "text": "职责 / 贡献要点2" },
         { "type": "label_body", "label": "项目成果：", "text": "" },
-        { "type": "bullet", "text": "完整实现身份证OCR识别功能，支持拍照、相册双输入，自动提取姓名、身份证号、性别、民族、出生日期、地址并跳转展示。" },
-        { "type": "bullet", "text": "真机（华为P60，Android 13）测试20次：相册识别成功率95%，拍照识别成功率90%，平均响应2.1~2.3秒；图片优化后请求超时率从30%降至5%以内。" }
+        { "type": "bullet", "text": "量化成果1" }
       ]
     },
     {
       "title": "校园经历",
       "items": [
-        { "type": "entry", "left": "校学生社团指导中心", "center": "人力资源部干事", "right": "2023.09-2025.09" },
-        { "type": "label_body", "label": "核心工作：", "text": "负责社团成员招募、培训与管理，整理成员信息档案；组织社团内部会议与团建活动，协调各社团之间的沟通协作；协助部门完成日常事务处理、文件归档与通知传达。" }
+        { "type": "entry", "left": "组织 / 社团名称", "center": "担任职位", "right": "202X.09-202X.09" },
+        { "type": "label_body", "label": "核心工作：", "text": "描述你在组织中的职责与成果……" }
       ]
     },
     {
       "title": "个人技能",
       "items": [
-        { "type": "label_body", "label": "1.专业技能：", "text": "熟练掌握Vue3、Vite、Element Plus前端开发，具备页面构建、组件封装与接口联调能力；熟悉SpringBoot、MyBatis-Plus、MySQL后端开发；掌握Java、Python、C、C++编程语言，了解AI Agent 基本架构、大模型调用、Prompt 工程、前后端与大模型协同；具备前端开发与AI 智能应用开发基础能力。" },
-        { "type": "label_body", "label": "2.综合素质：", "text": "学习能力强，能快速适配新技术，遇到问题能够迅速反应思考如何解决；沟通组织、团队协作能力突出，责任心强；好奇心重，喜欢关注并积极深入了解各种新型事物；能够随时到岗。" }
+        { "type": "label_body", "label": "1.专业技能：", "text": "列举你的专业技术能力……" },
+        { "type": "label_body", "label": "2.综合素质：", "text": "列举你的软技能与综合素质……" }
       ]
     }
   ]
