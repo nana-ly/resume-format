@@ -7,7 +7,7 @@
     {
       "title": "教育经历",
       "items": [
-        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "202X.09-202X.06" },
+        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "202X.0X-202X.0X" },
         { "type": "body", "text": "XX专业  本科（专业排名 / 绩点）" },
         { "type": "body", "text": "主修课程：课程1、课程2、课程3……" },
         { "type": "body", "text": "荣誉奖项：奖项1、奖项2" },
@@ -38,7 +38,7 @@
     {
       "title": "校园经历",
       "items": [
-        { "type": "entry", "left": "组织 / 社团名称", "center": "担任职位", "right": "202X.09-202X.09" },
+        { "type": "entry", "left": "组织 / 社团名称", "center": "担任职位", "right": "202X.0X-202X.0X" },
         { "type": "label_body", "label": "核心工作：", "text": "描述你在组织中的职责与成果……" }
       ]
     },
