@@ -19,9 +19,9 @@ python scripts/build_resume.py --content 你的内容.json --output 简历.docx
 ```json
 {
   "name": "姓名",
-  "basic_info": "性别：女 | 年龄：22",
-  "contact": "手机号：138xxxxxxxx | 邮箱：xxx@qq.com",
-  "job_intent": "求职意向：前端开发工程师",
+  "basic_info": "性别：男/女 | 年龄：xx",
+  "contact": "手机号：1xx-xxxx-xxxx | 邮箱：xxx@xxx.com",
+  "job_intent": "求职意向：XX岗位",
   "sections": [
     {
       "title": "教育经历",
