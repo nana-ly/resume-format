@@ -26,7 +26,7 @@ python scripts/build_resume.py --content 你的内容.json --output 简历.docx
     {
       "title": "教育经历",
       "items": [
-        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "2023.09-2027.06" },
+        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "202X.09-202X.06" },
         { "type": "body", "text": "专业 本科（排名）" },
         { "type": "body", "text": "主修课程：xxx" },
         { "type": "body", "text": "荣誉奖项：xxx" },
@@ -36,14 +36,14 @@ python scripts/build_resume.py --content 你的内容.json --output 简历.docx
     {
       "title": "实习经历",
       "items": [
-        { "type": "entry", "left": "公司名", "center": "岗位名", "right": "2025.10-2025.12" },
+        { "type": "entry", "left": "公司名", "center": "岗位名", "right": "202X.0X-202X.0X" },
         { "type": "label_body", "label": "核心工作：", "text": "工作内容描述..." }
       ]
     },
     {
       "title": "项目经历",
       "items": [
-        { "type": "entry", "left": "项目名（技术方向）", "center": "项目角色", "right": "2025.12-2026.01" },
+        { "type": "entry", "left": "项目名（技术方向）", "center": "项目角色", "right": "202X.0X-202X.0X" },
         { "type": "label_body", "label": "项目背景：", "text": "背景描述..." },
         { "type": "label_body", "label": "技术栈：", "text": "技术列表..." },
         { "type": "label_body", "label": "代码仓库：", "text": "仓库地址" },
@@ -57,7 +57,7 @@ python scripts/build_resume.py --content 你的内容.json --output 简历.docx
     {
       "title": "校园经历",
       "items": [
-        { "type": "entry", "left": "组织名", "center": "职位", "right": "2023.09-2025.09" },
+        { "type": "entry", "left": "组织名", "center": "职位", "right": "202X.09-202X.09" },
         { "type": "label_body", "label": "核心工作：", "text": "工作内容..." }
       ]
     },
