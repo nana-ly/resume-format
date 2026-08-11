@@ -26,7 +26,7 @@ python scripts/build_resume.py --content 你的内容.json --output 简历.docx
     {
       "title": "教育经历",
       "items": [
-        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "202X.09-202X.06" },
+        { "type": "entry", "left": "XX大学  XX学院", "center": "", "right": "202X.0X-202X.0X" },
         { "type": "body", "text": "专业 本科（排名）" },
         { "type": "body", "text": "主修课程：xxx" },
         { "type": "body", "text": "荣誉奖项：xxx" },
@@ -57,7 +57,7 @@ python scripts/build_resume.py --content 你的内容.json --output 简历.docx
     {
       "title": "校园经历",
       "items": [
-        { "type": "entry", "left": "组织名", "center": "职位", "right": "202X.09-202X.09" },
+        { "type": "entry", "left": "组织名", "center": "职位", "right": "202X.0X-202X.0X" },
         { "type": "label_body", "label": "核心工作：", "text": "工作内容..." }
       ]
     },
